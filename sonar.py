@@ -6,6 +6,8 @@ import pigpio
 
 class Sonar:
    """ Sonar range finder using the Ultrasonic Ranging Module HC-SR04.
+
+   Start the pigpiod daemon, before running.
    
    Using to get the water level in my goats/horses water buckets.
    
