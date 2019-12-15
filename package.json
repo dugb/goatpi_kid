@@ -1,0 +1,23 @@
+{
+  "name": "goatpi_kid",
+  "version": "1.0.0",
+  "description": "Monitoring system for my goats.  Raspberry pi, sensors, camera.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dugb/goatpi_kid.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dugb/goatpi_kid/issues"
+  },
+  "homepage": "https://github.com/dugb/goatpi_kid#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
